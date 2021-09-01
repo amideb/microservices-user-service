@@ -20,5 +20,5 @@ The following guides illustrate how to use some features concretely:
 
 ### user-service
 -         port 9001
--         /user/1344
+-         http://localhost:9001/api/user/1113
 
