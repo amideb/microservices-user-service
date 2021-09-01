@@ -20,4 +20,5 @@ The following guides illustrate how to use some features concretely:
 
 ### user-service
 -         port 9001
+-         /user/1344
 
